@@ -8,7 +8,7 @@ modified_at: 2024-05-05 22:27:00
 
 Today I'm happy to share with you some incredible news: my budgeting app Axia has topped the charts in the Russian App Store! I am proud of this achievement and want to thank all the users who made it possible.
 
-![Axia #1 in the Russian App Store](./media/Axia-number-1-in-the-Russian-App-Store.jpg?202405052227)
+![Axia #1 in the Russian App Store](./media/Axia-number-1-in-the-Russian-App-Store.jpg)
 
 ## What's next?
 
