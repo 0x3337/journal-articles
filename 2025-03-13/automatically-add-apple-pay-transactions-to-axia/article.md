@@ -1,6 +1,6 @@
 ---
-author: Mirsaid Patarov
-description: This tutorial will help you set up automatic addition of Apple Pay transactions in Axia
+author: "Mirsaid Patarov"
+description: "This tutorial will help you set up automatic addition of Apple Pay transactions in Axia"
 published_at: 2025-03-13 20:06:00
 modified_at: 2025-03-13 20:06:00
 ---
