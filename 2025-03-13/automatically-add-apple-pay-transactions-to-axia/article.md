@@ -3,13 +3,14 @@ author: "Mirsaid Patarov"
 description: "This tutorial will help you set up automatic addition of Apple Pay transactions in Axia"
 published_at: 2025-03-13 20:06:00
 modified_at: 2025-03-13 20:06:00
+tags: ["axia"]
 ---
 
 # Automatically add Apple Pay transactions to Axia
 
 In iOS 17, Apple has introduced a new feature called [Transaction Triggers](https://support.apple.com/en-al/guide/shortcuts/apd65c67538a/ios) in the Apple Shortcuts app. This feature allows you to automatically execute any shortcut after making a purchase using Apple Pay. This tutorial will help you set up automatic addition of Apple Pay transactions in Axia.
 
-![Shortcuts+Wallet+Axia=Love](./media/Shortcuts-Wallet-Axia.jpg)
+![Shortcuts+Wallet+Axia=Love](media/shortcuts-wallet-axia.jpg)
 
 Here's how to set it up:
 - Create a new automation by opening the Apple Shortcuts app and tapping the "Automations" tab. Press the "+" button to add a new automation and select "Transaction".

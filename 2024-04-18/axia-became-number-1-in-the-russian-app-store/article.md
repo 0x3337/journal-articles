@@ -3,13 +3,14 @@ author: "Mirsaid Patarov"
 description: "Today I'm happy to share with you some incredible news: my budgeting app Axia has topped the charts in the Russian App Store!"
 published_at: 2024-04-18 18:43:00
 modified_at: 2025-05-23 16:18:00
+tags: ["axia"]
 ---
 
 # Axia became #1 in the Russian App Store
 
 Today I'm happy to share with you some incredible news: my budgeting app Axia has topped the charts in the Russian App Store! I am proud of this achievement and want to thank all the users who made it possible.
 
-![Axia #1 in the Russian App Store](./media/Axia-number-1-in-the-Russian-App-Store.jpg)
+![Axia #1 in the Russian App Store](media/axia-number-1-in-the-russian-app-store.jpg)
 
 ## What's next?
 
