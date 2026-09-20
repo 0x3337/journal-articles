@@ -21,6 +21,30 @@ frozen: true
   - omitted / `frozen: false` — no in-app page, site only.
 - Title, description (first paragraph) and cover image (first image) are picked up automatically from the text — no need to set them separately.
 
+Everything the languages share can live in `article.yml` next to `article.md` instead, leaving each `.md` only what differs (usually just `description`):
+
+```
+# article.yml
+author: "Name"
+published_at: 2026-09-22 03:00:00
+modified_at: 2026-09-22 03:00:00
+tags: ["axia"]
+frozen: "custom-slug"
+```
+
+The `.md` front matter wins over `article.yml` when a key is in both.
+
+## Naming screens and buttons
+
+In English, UI names go in plain text with their own capitalization — no quotation marks:
+
+> rebuilt Settings and added filters to Activity
+> choose I owe or Owe me
+
+Quotes there read as a quotation or as irony. In Russian the usual «ёлочки» are correct: «Настройки», «Активность».
+
+Keep one term per thing across the whole article and across languages — if a record is an activity, it is never a transaction three paragraphs later.
+
 ## Images
 
 ```
